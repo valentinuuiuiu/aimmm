@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Video Campaign Creator",
+  "description": "Interactive AI-powered marketing video script helper and storyboard animator for ai-market.online smart tech products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
